@@ -6,7 +6,6 @@
 
 # virtualenv and other misc bits
 *.egg-info
-/dist
 /build
 /bin
 /lib
