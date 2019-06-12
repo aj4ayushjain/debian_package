@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Wed, 12 Jun 2019 10:50:53 +0530
+Source: scancode-toolkit
+Binary: scancode-toolkit
+Architecture: source amd64
+Version: 3.0.2.post813.ae5c8cc14.dirty.20190612044651-1
+Distribution: unstable
+Urgency: medium
+Maintainer: ayush <ayush@unknown>
+Changed-By: ayush <ayush@unknown>
+Description:
+ scancode-toolkit - <insert up to 60 chars description>
+Changes:
+ scancode-toolkit (3.0.2.post813.ae5c8cc14.dirty.20190612044651-1) unstable; urgency=medium
+ .
+   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+Checksums-Sha1:
+ 199845de6596ab91af107d1ecdb886ff310bcaca 1209 scancode-toolkit_3.0.2.post813.ae5c8cc14.dirty.20190612044651-1.dsc
+ a8f9ce79a1d127b2fc23a3443ac417fbcb516cad 8634484 scancode-toolkit_3.0.2.post813.ae5c8cc14.dirty.20190612044651.orig.tar.gz
+ a55d0a0d9efee5494f48868bcba691f0d417aa5e 7756 scancode-toolkit_3.0.2.post813.ae5c8cc14.dirty.20190612044651-1.debian.tar.xz
+ 68bc57d20e2ccd434f8f181943d03182ca853772 6858 scancode-toolkit_3.0.2.post813.ae5c8cc14.dirty.20190612044651-1_amd64.buildinfo
+ b5339876d490920145e1bc6dfbdebfc0c619885c 3231260 scancode-toolkit_3.0.2.post813.ae5c8cc14.dirty.20190612044651-1_amd64.deb
+Checksums-Sha256:
+ f66c21fd6254cf06be8b001714c9c6c753057c693ca8e75540396038dcd2de18 1209 scancode-toolkit_3.0.2.post813.ae5c8cc14.dirty.20190612044651-1.dsc
+ e416b9a1a5c762e6d8490f99a5ceda92c2bfada97e407a0b47b68fc9785eb3e2 8634484 scancode-toolkit_3.0.2.post813.ae5c8cc14.dirty.20190612044651.orig.tar.gz
+ ed671d696f5ac8ea0e7140e9b4404bbb32a4e9623308dcbb2ffdb94c0d14ac53 7756 scancode-toolkit_3.0.2.post813.ae5c8cc14.dirty.20190612044651-1.debian.tar.xz
+ 4fcdf71407847e9bea4b95f71392cc4041a88768d682af2a3a8a8c6d57ca00db 6858 scancode-toolkit_3.0.2.post813.ae5c8cc14.dirty.20190612044651-1_amd64.buildinfo
+ d850b3d79f4708801224ffb58a21d307d6488c0b97c057389d7a71bace614609 3231260 scancode-toolkit_3.0.2.post813.ae5c8cc14.dirty.20190612044651-1_amd64.deb
+Files:
+ 5a441fb0da67a9803eefbc5c5c8f5bd1 1209 unknown optional scancode-toolkit_3.0.2.post813.ae5c8cc14.dirty.20190612044651-1.dsc
+ badea16dc3b32d064c56598f67e31c7a 8634484 unknown optional scancode-toolkit_3.0.2.post813.ae5c8cc14.dirty.20190612044651.orig.tar.gz
+ b688ed86dc31d0999464e64e4075c9c7 7756 unknown optional scancode-toolkit_3.0.2.post813.ae5c8cc14.dirty.20190612044651-1.debian.tar.xz
+ bcf461bb5e1cfc2408dee9c0edacf765 6858 unknown optional scancode-toolkit_3.0.2.post813.ae5c8cc14.dirty.20190612044651-1_amd64.buildinfo
+ 70c90e52efe5007b3cb90dc8cdfb1bde 3231260 unknown optional scancode-toolkit_3.0.2.post813.ae5c8cc14.dirty.20190612044651-1_amd64.deb
